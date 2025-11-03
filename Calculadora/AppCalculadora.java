@@ -1,5 +1,5 @@
 import Suma.Suma;
-import Resta.resta;
+import Resta.Resta;
 
 import java.util.Scanner;
 
@@ -24,7 +24,7 @@ public class AppCalculadora {
                 System.out.println("Resultado de la suma: " + Suma.sumar(a, b));
                 break;
             case 2:
-                System.out.println("Resultado de la resta: " + resta.restar(a, b));
+                System.out.println("Resultado de la resta: " + Resta.restar(a, b));
                 break;
             default:
                 System.out.println("Opción no válida.");
