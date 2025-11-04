@@ -1,5 +1,5 @@
 
-````markdown
+
 # Clase 006 - Taller: Aplicando Principios de Código Limpio en Proyectos Reales  
 
 **Repositorio analizado:** [cesaralvrz/recursos-programación](https://github.com/Acadeller/recursos-programacion)  
