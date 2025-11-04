@@ -3,7 +3,7 @@
 
 | SQL Statement | Syntax |
 |---------------|---------|
-| **AND / OR** | ```sql\nSELECT column_name(s)\nFROM table_name\nWHERE condition\nAND / OR condition\n``` |
+| **AND / OR** | ```sql \nSELECT column_name(s)\nFROM table_name\nWHERE condition\nAND / OR condition\n``` |
 | **ALTER TABLE** | ```sql\nALTER TABLE table_name\nADD column_name datatype;\n\n-- o eliminar columna\nALTER TABLE table_name\nDROP COLUMN column_name;\n``` |
 | **AS (alias)** | ```sql\nSELECT column_name AS column_alias\nFROM table_name;\n\n-- o\nSELECT column_name\nFROM table_name AS table_alias;\n``` |
 | **BETWEEN** | ```sql\nSELECT column_name(s)\nFROM table_name\nWHERE column_name BETWEEN value1 AND value2;\n``` |
