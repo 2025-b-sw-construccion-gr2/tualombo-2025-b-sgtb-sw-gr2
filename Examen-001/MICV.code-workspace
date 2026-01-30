@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../xampp/htdocs/MICV"
+		},
+		{
+			"path": "../../MiCurriculum"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../HawkProjectConst"
+		},
+		{
+			"path": "../../ProyectCalidad1.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MICV"
+	}
+}
